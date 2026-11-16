@@ -1,0 +1,5 @@
+:root{color-scheme:dark}
+body{font-family:system-ui,sans-serif;background:#0b0e13;color:#e8eaed;margin:0;padding:16px;line-height:1.55}
+main{max-width:680px;margin:0 auto}
+h1{font-size:26px;margin:24px 0 8px}h2{font-size:18px;margin:28px 0 8px}
+p,li{color:#c3c9d0}a{color:#4fd1c5}small{color:#9aa3ad}
